@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">@color/transparentWhite</color>-->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">@color/transparentWhite</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorAccent">#1E88E5</color>
+    <color name="textColor">#605e5e</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="bg_white">#e5e5e5</color>
+    <color name="transparentWhite">#80FFFFFF</color>
+    <color name="transparentBlack">#99000000</color>
+
+    <color name="item1">#ECEFF1</color>
+    <color name="item2">#CFD8DC</color>
+
+    <color name="style_color_primary">#2d5d82</color>
+    <color name="style_color_primary_dark">#21425d</color>
+    <color name="text_dark">#21425d</color>
+    <color name="style_color_accent">#01bcd5</color>
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="text_like_counter">#2b5a83</color>
+    <color name="paint_color">#dddddd</color>
+    <color name="navigationBarColor">#dddddd</color>
+    <color name="drawerArrowColor">#dddddd</color>
+
+    <color name="color0">#e51c23</color>
+    <color name="color1">#e91e63</color>
+    <color name="color2">#9c27b0</color>
+    <color name="color3">#673ab7</color>
+    <color name="color4">#00bcd4</color>
+    <color name="color5">#03a9f4</color>
+    <color name="color6">#5677fc</color>
+    <color name="color7">#3f51b5</color>
+    <color name="color8">#009688</color>
+    <color name="color9">#259b24</color>
+    <color name="color10">#5677fc</color>
+    <color name="color11">#cddc39</color>
+    <color name="color12">#ff5722</color>
+    <color name="color13">#ff9800</color>
+    <color name="color14">#ffc107</color>
+    <color name="color15">#795548</color>
+</resources>
